@@ -1,0 +1,25 @@
+{
+  "name": "gh-detail",
+  "version": "1.0.0",
+  "description": "Githubのユーザー情報を取得するプロジェクトです。",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kz7c/gh-detail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kz7c/gh-detail/issues"
+  },
+  "homepage": "https://github.com/kz7c/gh-detail#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2"
+  }
+}

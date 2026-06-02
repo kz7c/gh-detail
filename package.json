@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Githubのユーザー情報を取得するプロジェクトです。",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "scripts": {
+    "build": "tsc",
+    "start": "ts-node dist/index.js"
   },
   "repository": {
     "type": "git",
